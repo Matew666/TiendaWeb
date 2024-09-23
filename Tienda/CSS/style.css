@@ -16,7 +16,7 @@ body, footer {
     color: white;
     background-position: center;
     background-size: cover;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(/Tienda/imagenes/Inicio.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(/TiendaWeb/Tienda/imagenes/Inicio.jpg);
   }
   
   .card {
